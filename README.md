@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarjamma&label=Profile%20views&color=0e75b6&style=flat" alt="onkarjamma" /> </p>
 
 - ⚡ Fun fact **No one knows me...**
-
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+<img src="party-furby.gif" align="right" width="60">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onkar_jamma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onkar_jamma" height="30" width="40" /></a>
@@ -23,9 +24,6 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
-
-<img src="party-furby.gif" align="right" width="60">
 
 <br>
 
