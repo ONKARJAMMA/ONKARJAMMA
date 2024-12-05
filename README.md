@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarjamma&label=Profile%20views&color=0e75b6&style=flat" alt="onkarjamma" /> </p>
 
 - ⚡ Fun fact **No one knows me...**
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+**i love coding**
+&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
+&nbsp;&nbsp;![](unicorn.gif)
 <img src="party-furby.gif" align="right" width="60">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
