@@ -6,11 +6,10 @@
 - ⚡ Fun fact **No one knows me...**
 **i love coding**
 
-
  
 &nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 &nbsp;&nbsp;![](unicorn.gif)
-<img src="party-furby.gif" align="left" width="60">
+<img src="party-furby.gif" align="right" width="60">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onkar_jamma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onkar_jamma" height="30" width="40" /></a>
